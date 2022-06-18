@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="cpp.cpp">
+    <ClCompile Include="cp_boiler_plate.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
